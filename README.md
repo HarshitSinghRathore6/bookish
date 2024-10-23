@@ -51,4 +51,36 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### License
 
-This project is **free to use** and does not contains any license.
+MIT License
+
+Copyright (c) 2024 [Your Name or "Bookish" Project Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+###License Without Legal Terms
+
+1. We allow anyone to use, copy, modify, and distribute the code — you can even use it for commercial purposes.
+
+2. You don't require anyone to pay for it — it's completely free to use.
+
+3. If you share or sell this code, you need to include the same MIT license and give us credit for the original work.
+
+4. There’s no warranty or liability — if someone uses this code and something goes wrong (like it causes issues with their project), we're not responsible for fixing it.
+
+In short, it says: "Feel free to use this code for anything, but I'm not responsible if something breaks!"
